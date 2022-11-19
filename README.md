@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addhyay&label=Profile%20views&color=0e75b6&style=flat" alt="addhyay" /> </p>
 
 
-- 🔭 I’m currently intern at **TejGyan Foundation, Pune**
+- 🔭 I have been a **Flutter Frontend intern** at **TejGyan Foundation, Pune**
 
-- 🌱 I’m currently learning **Flutter Frontend, Quantum Computing |qiskit>**
+- 🌱 I’m currently preparing for **GATE 2023**
 
 - 📫 How to reach me **addhyay@gmail.com**
 
