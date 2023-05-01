@@ -8,9 +8,9 @@
 
 - 🔭 I have been a **Flutter Frontend intern** at **TejGyan Foundation, Pune**
 
-- 🌱 I’m currently preparing for **GATE 2023**
+- 🌱 I have qualified **GATE 2023** with **AIR 640**
 
-- 📫 How to reach me **addhyay@gmail.com**
+- 📫 Contact me at **addhyay@gmail.com**
 
 </br>
 
