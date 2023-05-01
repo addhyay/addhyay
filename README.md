@@ -1,20 +1,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Harish Chavan</h1>
-<h3 align="center">Quantum Computing _ML | //dev</h3>
+<h3 align="center"> <Quantum Computing | ML | //dev> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addhyay&label=Profile%20views&color=0e75b6&style=flat" alt="addhyay" /> </p>
 
 
-- 🔭 I have been a **Flutter Frontend intern** at **TejGyan Foundation, Pune**
+- 👨🏽‍💻 I have been a **Flutter Frontend intern** at **TejGyan Foundation, Pune**
 
-- 🌱 I have qualified **GATE 2023** with **AIR 640**
+- 🎖️ I have qualified **GATE 2023** with **AIR 640**
 
-- 📫 Contact me at **addhyay@gmail.com**
+- ⚛️ I have interest in Quantum Computing & QML, looking forward for any opportunity
 
 </br>
 
 <h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 <a href="https://twitter.com/_addhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="addhyay_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harish-chavan-a5795b169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harish-chavan-a5795b169" height="30" width="40" /></a>
