@@ -1,9 +1,9 @@
 <h1 align="center">
-    Hello 🖐🏽,Harish Chavan here!
+    Hello 🖐🏽, Harish Chavan here!
 </h1>
 
 <h3 align="center"> 
-    Quantum Computing | ML | Flutter Developer
+    Theoretical Cyptograhy | Quantum Algorithm | Quantum Complexity | Flutter Developer
 </h3>
 
 <p align="left">
